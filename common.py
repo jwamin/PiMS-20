@@ -19,7 +19,7 @@ PWM_HIGH_DUTY = environ.get("PWM_HIGH_DUTY") or 100
 FPS_60 = 1 / 60
 FPS_120 = 1 / 120
 
-logging_level = logging.basicConfig(level=logging.INFO)
+logging_level = logging.basicConfig(level=logging.DEBUG)
 logger = logging
 
 class Easing(enum.Enum):

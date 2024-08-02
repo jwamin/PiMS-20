@@ -16,6 +16,12 @@
 
 * In conjunction with the MS20's external signal processor (ESP) F-C Converter Patch connector to output control voltages
 
+### TODO
+
+* argparse
+* OO 
+* API
+
 ### Next Steps
 
 * PWM improvements - easing, interesting sounds, better control, "one shot" sounds. 
